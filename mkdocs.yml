@@ -1,0 +1,11 @@
+site_name: Your Documentation
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Getting Started: 10_Getting_Started/README.md
+  - User Guide: 20_User_Guide/README.md
